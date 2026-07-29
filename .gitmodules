@@ -1,0 +1,4 @@
+[submodule "RTOS"]
+	path = RTOS
+	url = https://github.com/hyuyeon/greenRight_Topst_VCP.git
+	branch = main
