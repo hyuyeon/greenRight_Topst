@@ -2,3 +2,6 @@
 	path = RTOS
 	url = https://github.com/hyuyeon/greenRight_Topst_VCP.git
 	branch = main
+[submodule "Linux"]
+	path = Linux
+	url = https://github.com/tmdgml9495/greenRight_TOPST_Linux.git
